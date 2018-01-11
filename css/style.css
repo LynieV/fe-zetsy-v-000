@@ -69,11 +69,6 @@ body {
   text-decoration: none;
 }
 
-img {
-  transition: all;
-  border: #ccc;
-}
-
-img:hover {
-  border: purple;
+learn-more:hover {
+  
 }
