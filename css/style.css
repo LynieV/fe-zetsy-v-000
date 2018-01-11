@@ -69,11 +69,6 @@ body {
   text-decoration: none;
 }
 
-img {
-  transition: border-color;
-  border-color: #ccc;
-}
-
 img:hover {
   border: purple;
 }
